@@ -14,6 +14,6 @@
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/abhinandan-mishra-42a2ab240/)
-![LeetCode](https://img.shields.io/badge/https%3A%2F%2Fleetcode.com%2Fu%2Fakmmbh%2F)
-
+[![LeetCode](https://img.shields.io/badge/https%3A%2F%2Fleetcode.com%2Fu%2Fakmmbh%2F)
+](https://leetcode.com/u/akmmbh/)
 
