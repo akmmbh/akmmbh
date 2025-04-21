@@ -14,5 +14,5 @@
 
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/abhinandan-mishra-42a2ab240/)
-[![LeetCode](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=#00C7B7)]([https://jose-conejero.netlify.app/](https://leetcode.com/u/akmmbh/))
+[![LeetCode](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=#00C7B7)]([https://leetcode.com/u/akmmbh/])
 
